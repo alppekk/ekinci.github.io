@@ -4,7 +4,7 @@ title: "Neuroaesthetics"
 author: "Mustafa Alperen Ekinci"
 categories: documentation
 tags: [documentation,sample]
-image: IMG_0812_Original.jpg
+image: rene.jpeg
 ---
 
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
