@@ -5,9 +5,9 @@ category: facts
 permalink: /facts
 ---
 
-PhD in Neuroaesthetics at Justus Liebig University Giessen, Giessen, Germany./n
-Supervisor:/n
-Thesis:/n
+PhD in Neuroaesthetics at Justus Liebig University Giessen, Giessen, Germany.\n
+Supervisor:\n
+Thesis:\n
 
 Master's degree in Neural and Behavioral Science at the Eberhard Karls University Tübingen, Tübingen, Germany.
 Supervisor: Prof. Dr. Andreas Bartels
