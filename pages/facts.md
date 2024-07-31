@@ -6,6 +6,8 @@ permalink: /facts
 image: IMG_0812_Original.jpg
 ---
 
+## Education
+
 PhD in Neuroaesthetics at Justus Liebig University Giessen, Giessen, Germany.<br>
 Supervisor:<br>
 Thesis:
