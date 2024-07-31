@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning Resources
+title: Research Interests
 category: resources
 permalink: /resources
 ---
