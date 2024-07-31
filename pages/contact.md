@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact
 ---
 
-hello
+Email: alppekinci@gmail.com
