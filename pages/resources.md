@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: Learning Resources
 category: resources
 permalink: /resources
