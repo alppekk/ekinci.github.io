@@ -3,7 +3,7 @@ layout: page
 title: About
 category: facts
 permalink: /facts
-image: me.JPEG
+image: alp.jpg
 ---
 
 ## Education
@@ -12,7 +12,7 @@ image: me.JPEG
 -Supervisor:<br>
 -Thesis:
 
--Master's degree in Neural and Behavioral Science at the Eberhard Karls University Tübingen, International Max Planck Research School, Tübingen, Germany.<br>
+-Master's degree in Neural and Behavioral Science at the Eberhard Karls University Tübingen, Tübingen, Germany.<br>
 -Supervisor: Prof. Dr. Andreas Bartels<br>
 -Thesis: "TrueScenometry: FMRI Responses to True Scene Geometry"
 
