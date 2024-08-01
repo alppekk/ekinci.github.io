@@ -1,7 +1,7 @@
 ---
 #layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Neurocinema"
+author: "Mustafa Alperen Ekinci"
 categories: documentation
 tags: [documentation,sample]
 image: IMG_0058.heic
