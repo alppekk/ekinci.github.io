@@ -6,4 +6,6 @@ categories: documentation
 tags: [documentation,sample]
 image: magritte.jpg
 ---
+Golconda by Rene Magritte, 1953.
+
 # What is Neuroaesthetics?
