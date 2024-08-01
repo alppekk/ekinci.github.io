@@ -3,7 +3,7 @@ layout: page
 title: About
 category: facts
 permalink: /facts
-image: IMG_0812_Original.jpg
+image: me.JPEG
 ---
 
 ## Education
