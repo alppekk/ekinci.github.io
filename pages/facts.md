@@ -3,7 +3,7 @@ layout: page
 title: About
 category: facts
 permalink: /facts
-image: alpp.jpg
+image: alpp.JPG
 ---
 
 ## Education
