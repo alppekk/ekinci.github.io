@@ -8,14 +8,11 @@ image: alpp.JPG
 
 ## Education
 
--PhD candidate in Neuroaesthetics at Justus Liebig University Giessen, Giessen, Germany.<br>
--Supervisor: Prof. Daniel Kaiser. <br>
--Thesis: in progress.
+*PhD candidate in Neuroaesthetics at Justus Liebig University Giessen, Giessen, Germany.<br>
+*Thesis: in progress.<br>
 
--Master's degree in Neural and Behavioral Science at the Eberhard Karls University Tübingen, Tübingen, Germany.<br>
--Supervisor: Prof. Andreas Bartels.<br>
--Thesis: "TrueScenometry: FMRI Responses to True Scene Geometry".
+*Master's degree in Neural and Behavioral Science at the Eberhard Karls University Tübingen, Tübingen, Germany.<br>
+*Thesis: "TrueScenometry: FMRI Responses to True Scene Geometry".<br>
 
--Bachelor's degree in Psychology at Bogazici University, Istanbul, Turkey.<br>
--Supervisor: Prof. Inci Ayhan.<br>
--Thesis: "The Effects of Emotion on Time Perception".
+*Bachelor's degree in Psychology at Bogazici University, Istanbul, Turkey.<br>
+*Thesis: "The Effects of Emotion on Time Perception".<br>
