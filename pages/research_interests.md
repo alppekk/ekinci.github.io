@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Research Interests
-category: resources
-permalink: /resources
+category: research_interests
+permalink: /research_interests
 ---
 
 
