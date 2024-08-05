@@ -9,7 +9,7 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'About',  url: 'about'}
 - {name: 'Research Interests', url: 'research_interests'}
-- {name: 'Publications',       url: 'sample-posts'}
+- {name: 'Publications',       url: 'publications'}
 #- {name: 'Documentation',      url: 'documentation'}
 #- {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
