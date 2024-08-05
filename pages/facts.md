@@ -9,7 +9,7 @@ image: alpp.JPG
 ## Education
 
 + PhD candidate in Neuroaesthetics at Justus Liebig University Giessen, Giessen, Germany.<br>
-  + Thesis: in progress.
+  + Thesis: Resolving the Brain Dynamics Underlying Aesthetic Visual Experiences.
 <br>
 <br>
 
