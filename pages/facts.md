@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-category: facts
-permalink: /facts
+category: about
+permalink: /about
 image: alpp.JPG
 ---
 
