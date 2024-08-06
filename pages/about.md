@@ -24,3 +24,6 @@ image: alpp.JPG
 ## Bachelor's Degree in Psychology
 **Bogazici University**, Istanbul, Turkey  
 *Thesis: "The Effects of Emotion on Time Perception"*
+
+
+# Research Interests
