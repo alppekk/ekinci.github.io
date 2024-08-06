@@ -27,6 +27,6 @@ I am interested in neuroaesthetics and questions related to the perception of be
 
 ## Bachelor's Degree in Psychology
 **Bogazici University**, Istanbul, Turkey  
-*Thesis: "The Effects of Emotion on Time Perception"*
+*Thesis: "The Effects of Emotions on Time Perception"*
 
 
