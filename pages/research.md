@@ -13,8 +13,8 @@ permalink: /research
 
 ---
 
-## Project 2: EEG Responses to Aesthetic Stimuli
-**Description**: In this research, I analyze EEG responses when participants view aesthetically appealing and unappealing images. We investigate whether neural patterns can distinguish aesthetic value.  
+## Project 2: Bachelor's thesis - The Effects of Emotions on Visual Time Perception
+**Description**: In this study we sought to explain the role of feeling ashamed in time perception. It was known that negative feelings make people overestimate time, however; the emotion shame was not studied in this context before. 
 image: arctic-2.jpg
 
 ---
