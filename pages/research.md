@@ -5,43 +5,21 @@ category: research
 permalink: /research
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Research Projects - Alp</title>
-    <link rel="stylesheet" href="_style.scss">
-    <link href="https://fonts.googleapis.com/scss2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
-</head>
-<body>
-    <header>
-        <h1>Alp's Research Projects</h1>
-        <p>Welcome to my portfolio! Here you can explore the research projects I have worked on.</p>
-    </header>
+# Research Projects
 
-    <section class="projects">
-        <div class="project">
-            <h2>Project Title 1</h2>
-            <p>Description of the first research project. This could include the purpose of the study, methods used, and key findings.</p>
-            <a href="#" target="_blank">Read More</a>
-        </div>
+## Project 1: Neural Aesthetics and Machine Learning
+**Description**: This project explores how neural networks in the brain are activated when people perceive beauty. Using machine learning, we aim to predict aesthetic responses through fMRI data.  
+![Project 1 Image](arctic.jpg)
 
-        <div class="project">
-            <h2>Project Title 2</h2>
-            <p>Description of the second research project. This could include the purpose of the study, methods used, and key findings.</p>
-            <a href="#" target="_blank">Read More</a>
-        </div>
+---
 
-        <div class="project">
-            <h2>Project Title 3</h2>
-            <p>Description of the third research project. This could include the purpose of the study, methods used, and key findings.</p>
-            <a href="#" target="_blank">Read More</a>
-        </div>
-    </section>
+## Project 2: EEG Responses to Aesthetic Stimuli
+**Description**: In this research, I analyze EEG responses when participants view aesthetically appealing and unappealing images. We investigate whether neural patterns can distinguish aesthetic value.  
+![Project 2 Image](barry.jpg)
 
-    <footer>
-        <p>&copy; 2024 Alp. All Rights Reserved.</p>
-    </footer>
-</body>
-</html>
+---
+
+## Project 3: Predicting Aesthetic Preferences with Deep Learning
+**Description**: This project involves creating a deep learning model that predicts aesthetic preferences based on neural responses from fMRI data. Our goal is to make neural data-driven predictions on human aesthetic appeals.  
+![Project 3 Image](city.jpg)
+
