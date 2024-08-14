@@ -10,41 +10,38 @@ permalink: /research
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Research Projects</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="base.scss"> <!-- Link to your existing stylesheet -->
+    <title>Research Projects - Alp</title>
+    <link rel="stylesheet" href="_style.scss">
+    <link href="https://fonts.googleapis.com/scss2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
-        <h1>My Research Projects</h1>
-        <p>Explore my work and contributions to the field of neuroscience and cognitive science.</p>
+        <h1>Alp's Research Projects</h1>
+        <p>Welcome to my portfolio! Here you can explore the research projects I have worked on.</p>
     </header>
 
-    <section id="projects">
-        <div class="project-card">
-            <img src="path-to-your-image1.jpg" alt="Project 1 Image" class="project-image">
+    <section class="projects">
+        <div class="project">
             <h2>Project Title 1</h2>
-            <p>A brief description of the project, its goals, methods, and outcomes.</p>
-            <a href="#" class="btn">Learn More</a>
+            <p>Description of the first research project. This could include the purpose of the study, methods used, and key findings.</p>
+            <a href="#" target="_blank">Read More</a>
         </div>
 
-        <div class="project-card">
-            <img src="path-to-your-image2.jpg" alt="Project 2 Image" class="project-image">
+        <div class="project">
             <h2>Project Title 2</h2>
-            <p>A brief description of the project, its goals, methods, and outcomes.</p>
-            <a href="#" class="btn">Learn More</a>
+            <p>Description of the second research project. This could include the purpose of the study, methods used, and key findings.</p>
+            <a href="#" target="_blank">Read More</a>
         </div>
 
-        <div class="project-card">
-            <img src="path-to-your-image3.jpg" alt="Project 3 Image" class="project-image">
+        <div class="project">
             <h2>Project Title 3</h2>
-            <p>A brief description of the project, its goals, methods, and outcomes.</p>
-            <a href="#" class="btn">Learn More</a>
+            <p>Description of the third research project. This could include the purpose of the study, methods used, and key findings.</p>
+            <a href="#" target="_blank">Read More</a>
         </div>
     </section>
 
     <footer>
-        <p>&copy; 2024 Alp. All rights reserved.</p>
+        <p>&copy; 2024 Alp. All Rights Reserved.</p>
     </footer>
 </body>
 </html>
