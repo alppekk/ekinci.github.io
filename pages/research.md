@@ -9,7 +9,7 @@ permalink: /research
 
 ## Project 1: Neural Aesthetics and Machine Learning
 **Description**: This project explores how neural networks in the brain are activated when people perceive beauty. Using machine learning, we aim to predict aesthetic responses through fMRI data.  
-![Project 1 Image](https://ekinci.github.io/assets/img/arctic-1.jpg)
+![Project 1 Image](https://alppekk.github.io/ekinci.github.io/assets/img/arctic-1.jpg)
 
 ---
 
