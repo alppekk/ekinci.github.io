@@ -7,8 +7,8 @@ permalink: /research
 
 # Research Projects
 
-## Project 1: Neural Aesthetics and Machine Learning
-**Description**: This project explores how neural networks in the brain are activated when people perceive beauty. Using machine learning, we aim to predict aesthetic responses through fMRI data.  
+## Project 1: Master's thesis - TrueSceneometry: FMRI Responses to True Scene Geometry
+**Description**: This project explores how the brain processes motion signals and distinguishes between different types of motion: local motion (nonrigid) and global motion (rigid). We used ground-truth optical flow synthetic datasets to acquire precise measurements of motion and employed screen geometry to differentiate between camera motion and object motion in the movies. We collected fMRI data and used motion vectors as parameters to observe brain activation in response to these different motion types. 
 ![Project 1 Image](https://alppekk.github.io/ekinci.github.io/assets/img/arctic-1.jpg)
 
 ---
