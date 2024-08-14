@@ -20,7 +20,7 @@ I am interested in **neuroaesthetics** and questions related to the perception o
 ---
 
 ## Master's Degree in Neural and Behavioral Science
-**Max-Planck Institutes for Biological Cybernetics - Eberhard Karls University Tübingen**, Tübingen, Germany  
+**Max-Planck Institutes for Biological Cybernetics - The University of Tübingen**, Tübingen, Germany  
 *Thesis: "TrueScenometry: FMRI Responses to True Scene Geometry"*
 
 ---
