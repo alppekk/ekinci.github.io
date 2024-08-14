@@ -13,13 +13,17 @@ permalink: /research
 
 ---
 
-## Project 2: Bachelor's thesis - The Effects of Emotions on Visual Time Perception
-**Description**: In this study we sought to explain the role of feeling ashamed in time perception. It was known that negative feelings make people overestimate time, however; the emotion shame was not studied in this context before. 
-image: arctic-2.jpg
+## Project 2: The Prediction Mechanisms Involved in Visual Motion Computation
+**Description**: During stable eye position, the detectability of moving objects varies under two conditions: leading and trailing. This research investigates whether there are effects of motion direction and velocity on the prediction mechanisms for moving objects. We also introduced smooth pursuit eye movements to explore these effects further.
+![Project 1 Image](https://alppekk.github.io/ekinci.github.io/assets/img/prediction.jpeg)
+The figure from the study of Roach et al., (2011).
 
 ---
 
-## Project 3: Predicting Aesthetic Preferences with Deep Learning
-**Description**: This project involves creating a deep learning model that predicts aesthetic preferences based on neural responses from fMRI data. Our goal is to make neural data-driven predictions on human aesthetic appeals.  
-image: city-1.jpg
+## Project 3: Bachelor's thesis - The Effects of Emotions on Visual Time Perception
+**Description**: In this study we sought to explain the role of feeling ashamed in time perception. It was known that negative feelings make people overestimate time, however; the emotion shame was not studied in this context before. 
+![Project 1 Image](https://alppekk.github.io/ekinci.github.io/assets/img/time.jpeg)
+The temporal information processing model of Gibbon et al. (1984) (figure taken from (Droit-Volet & Gil, 2009)).
+
+
 
