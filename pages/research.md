@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Research
 category: research
 permalink: /research
 ---
