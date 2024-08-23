@@ -9,3 +9,4 @@ image: magritte2.jpg
 Golconda by Rene Magritte, 1953.
 
 # The Neuroscience of Aesthetics
+** There will be a short essay.
