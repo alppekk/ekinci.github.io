@@ -3,7 +3,7 @@ layout: page
 title: About me
 category: about
 permalink: /about
-image: alpp.JPG
+image: alp_last_2.JPG
 ---
 
 # Research Interests
