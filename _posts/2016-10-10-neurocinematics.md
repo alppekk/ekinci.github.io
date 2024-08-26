@@ -1,6 +1,6 @@
 ---
 #layout: post
-title: "Neurocinema"
+title: "Neurocinematics"
 author: "Mustafa Alperen Ekinci"
 categories: documentation
 tags: [documentation,sample]
