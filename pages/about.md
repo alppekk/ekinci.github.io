@@ -3,7 +3,7 @@ layout: page
 title: About me
 category: about
 permalink: /about
-#image: alp_last3.jpg
+#image: alp_lastUH.jpg
 ---
 ![Project 1 Image](https://alppekk.github.io/ekinci.github.io/assets/img/alp_last_last.jpg){:width="300px"}
 # Research Interests
