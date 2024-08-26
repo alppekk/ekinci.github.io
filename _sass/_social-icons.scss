@@ -64,7 +64,7 @@
   @include social-media-icon($rss-color, $icon-transition-time);
 }
 .fa-researchgate {
-  $researchgate-color: #00CCBB; 
+  $researchgate-color: #000000; 
   padding: 5px;
   @include social-media-icon($researchgate-color, $icon-transition-time);
 }
