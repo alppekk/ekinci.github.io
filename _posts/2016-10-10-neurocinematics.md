@@ -19,7 +19,7 @@ The neuroscience of cinema seeks to explore the relationship between cognitive n
 Functional magnetic resonance imaging (fMRI) offers a quantitative way to measure brain activation while participants freely watch movies to assess the aforementioned processes in the brain. Given that traditional fMRI data analysis is not well-suited for free movie viewing, inter-subject correlation (ISC) has emerged as a reliable method. ISC measures the similarity in brain activation across viewers watching the same film, offering both spatial and temporal precision.
 <br>
 <br>
-Pioneering research by Hasson et al. (2004) [^2] measured brain activation during the free viewing of four different genre films. For example, the collective engagement power of a Hitchcock movie was greater than that of other less famous directors in the study because he evoked similar responses across all viewers in over 65 percent of the cortex. This demonstrates that Hitchcock was neuroscientifically able to captivate and manipulate viewers’ minds, highligting the unique impact of his movies on the human brain [^3].
+Pioneering research by Hasson et al. (2004) [^2] measured brain activation during the free viewing of four different genre films. In the results, the collective engagement power of a Hitchcock movie was greater than that of other less famous directors in the study, which means he was able to evoke similar responses across all viewers in over 65 percent of the cortex. This demonstrates that Hitchcock was neuroscientifically able to captivate and manipulate viewers’ minds, highligting the unique impact of his movies on the human brain [^3].
 <br>
 <br>
 <br>
