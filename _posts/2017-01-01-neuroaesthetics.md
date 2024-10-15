@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/036db3af-497a-4280-89f5-beec21bad5e8)---
-layout: post
+#![image](https://github.com/user-attachments/assets/036db3af-497a-4280-89f5-beec21bad5e8)---
+#layout: post
 title: "Neuroaesthetics"
 author: "Mustafa Alperen Ekinci"
 categories: documentation
