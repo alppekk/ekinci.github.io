@@ -17,6 +17,7 @@ permalink: /research
 **Description**: In the mouse retina, there are different cell types in different layers of the retina. When the light information comes via photoreceptors and is processed by horizontal, bipolar, and amacrine cells, all output from this process is carried via retinal ganglion cells (RGC) in around 40 parallel and independent streams to the brain. However, Suppressed-by-Contrast (SbC) cell type functionally differs from others. This study investigates SbC cell responses in the mouse retina with different types of stimulations using two-photon microscopy and creates a scientific database for two-photon microscopy data.
 ![Project 1 Image](https://alppekk.github.io/ekinci.github.io/assets/img/Picture_1.jpeg)
 The figure from the study of Euler et al., (2014).
+
 ---
 
 ## Project 3: The Prediction Mechanisms Involved in Visual Motion Computation
