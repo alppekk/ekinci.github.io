@@ -13,19 +13,19 @@ I am interested in **neuroaesthetics** and questions related to the perception o
 
 # Academic Background
 
-## PhD Candidate in Neuroaesthetics
+## PhD Student in Neuroaesthetics - Ongoing
 **Justus Liebig University Giessen**, Giessen, Germany  
 *Thesis: "Resolving the Brain Dynamics Underlying Aesthetic Visual Experiences"*
 
 ---
 
-## Master's Degree in Neural and Behavioral Science
+## Master's Degree in Neural and Behavioral Science - 2023
 **Max-Planck Institutes for Biological Cybernetics - The University of Tübingen**, Tübingen, Germany  
 *Thesis: "TrueScenometry: FMRI Responses to True Scene Geometry"*
 
 ---
 
-## Bachelor's Degree in Psychology
+## Bachelor's Degree in Psychology - 2021
 **Bogazici University**, Istanbul, Turkey  
 *Thesis: "The Effects of Emotions on Time Perception"*
 
