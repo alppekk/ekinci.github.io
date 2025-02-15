@@ -9,7 +9,7 @@ image: magritte2.jpg
 ---
 Golconda by Rene Magritte, 1953.
 
-# The Neuroscience of Aesthetics
+# The Neuroscience of Aesthetic
 
 Throughout history, aesthetic experiences have had a strong impact on human life, influencing architecture, art, cinema, and even personal decisions and well-being [^1] [^2].  While we find some things attractive or pleasing, we dislike or find  others unpleasing. Basically, empirical aesthetics aims to understand these responses using statistical and neuroscientific methods [^3]. 
 <br>
