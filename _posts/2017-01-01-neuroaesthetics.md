@@ -5,7 +5,7 @@ title: "Neuroaesthetics"
 author: "Mustafa Alperen Ekinci"
 categories: documentation
 tags: [documentation,sample]
-image: false_mirror.jpeg
+image: falsemirror.jpg
 ---
 False Mirror by Rene Magritte, 1953.
 
