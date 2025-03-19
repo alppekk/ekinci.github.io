@@ -5,9 +5,9 @@ title: "Neuroaesthetics"
 author: "Mustafa Alperen Ekinci"
 categories: documentation
 tags: [documentation,sample]
-image: magritte2.jpg
+image: false_mirror.jpeg
 ---
-Golconda by Rene Magritte, 1953.
+False Mirror by Rene Magritte, 1953.
 
 # The Neuroscience of Aesthetic
 
