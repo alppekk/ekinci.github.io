@@ -7,7 +7,7 @@ categories: documentation
 tags: [documentation,sample]
 image: falsemirror.jpg
 ---
-False Mirror by Rene Magritte, 1953.
+False Mirror by Rene Magritte, 1928.
 
 # The Neuroscience of Aesthetic
 
