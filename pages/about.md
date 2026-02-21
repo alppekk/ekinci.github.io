@@ -8,7 +8,7 @@ permalink: /about
 ![Project 1 Image](https://alppekk.github.io/assets/img/alp_circ.png){:width="300px"}
 # Research Interests
 
-I am interested in **neuroaesthetics** and questions related to the perception of beauty. I am highly motivated to observe neural networks in the brain responsible for our aesthetic appeals, using **fMRI and EEG methods**. Additionally, I dive into how predictable our aesthetic appeals are, aiming to use machine learning and **deep neural networks** to predict the perception of beauty in the brain.
+I am interested in **neuroaesthetics** and questions related to the perception of visual beauty. I dive into how predictable our aesthetic appeals are, aiming to use **machine learning** and **deep neural networks** to predict the perception of beauty in the brain. I am highly motivated to use naturlaistic stimulus like feature-lenght movies to be close to the real-life complexity. Additionally, I am eager to observe neural networks in the brain responsible for our aesthetic appeals, using **fMRI and EEG methods**
 
 
 # Academic Background
