@@ -17,7 +17,8 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 #- {icon: 'twitter', link:    'https://x.com/mustafa_alp_ek'}
-- {icon: 'bluesky', link: 'https://bsky.app/profile/alpekinci.bsky.social'}
+#- {icon: 'bluesky', link: 'https://bsky.app/profile/alpekinci.bsky.social'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com.au/citations?user=on0GfIQAAAAJ&hl=en'}
 - {icon: 'linkedin', link:    'https://www.linkedin.com/in/mustafa-alp-ekinci-9782271b0/'}
 
 #- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
