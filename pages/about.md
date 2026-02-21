@@ -19,17 +19,20 @@ I am interested in **neuroaesthetics** and questions related to the perception o
 ## PhD Student in Neuroaesthetics - Ongoing
 **Justus Liebig University Giessen**, Giessen, Germany  
 *Thesis: "Resolving the Brain Dynamics Underlying Aesthetic Visual Experiences"*
+Prof. Daniel Kaiser
 
 ---
 
 ## Master's Degree in Neural and Behavioral Science - 2023
 **Max-Planck Institutes for Biological Cybernetics - The University of Tübingen**, Tübingen, Germany  
 *Thesis: "TrueScenometry: FMRI Responses to True Scene Geometry"*
+Prof. Andreas Bartels
 
 ---
 
 ## Bachelor's Degree in Psychology - 2021
 **Bogazici University**, Istanbul, Turkey  
 *Thesis: "The Effects of Emotions on Time Perception"*
+Prof. Inci Ayhan
 
 
