@@ -13,7 +13,8 @@ permalink: /research
 
 ## Project 2: Shared gaze reflects shared aesthetic experiences
 **Description**: In two experiments, participants watched the documentary “Home” while their eye movements were recorded. In Experiment 1, participants continuously rated aesthetic experience throughout the movie, whereas in Experiment 2, they watched the first half without a task and rated aesthetic experience only during the second half. Inter-individual similarity in gaze patterns, assessed using fixation heatmaps across time, predicted similarity in aesthetic appeal judgments in both experiments. Notably, in Experiment 2, gaze similarity during free viewing in the first half of the movie predicted similarity in aesthetic ratings during the second half, indicating that incidental eye movement patterns predict aesthetic experiences. Together, these results show that shared gaze patterns are linked to shared aesthetic experiences under naturalistic, dynamic viewing conditions.
-Preprint: https://www.biorxiv.org/content/10.64898/2026.01.30.702749v1
+
+[Preprint: https://www.biorxiv.org/content/10.64898/2026.01.30.702749v1](https://www.biorxiv.org/content/10.64898/2026.01.30.702749v1)
 
 ---
 
