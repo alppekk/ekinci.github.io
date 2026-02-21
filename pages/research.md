@@ -5,8 +5,6 @@ category: research
 permalink: /research
 ---
 
-# Research Projects
-
 ## Project 1: From pixels to pleasure: Visual features root of dynamic aesthetic experience across distinct film content
 **Description**: In two experiments, participants continuously rated the aesthetic appeal of either the documentary, “Home” or an animated film, “Loving Vincent”. While watching each film, participants continuously rated the aesthetic appeal of the unfolding scenes using a response slider. We modeled moment-to-moment ratings using image-computable visual features extracted from each movie frame, including spatial structure, color statistics, and motion energy, derived from targeted feature measures and deep neural network activations.
 
