@@ -6,23 +6,22 @@ permalink: /supervision
 ---
 
 ## Xueying Yan - Master thesis
-The project: The role of aesthetic prcoessing in multisensory integration. 
+*The role of aesthetic prcoessing in multisensory integration.*
 
 ---
 
 ## Mark Merkouchev - Internship
-The project: The influence of predictability of an image in visual beauty.
+*The influence of predictability of an image in visual beauty.*
 
 ---
 
 ## Melis Akdeniz - Master thesis
-The project: The part-whole relationship in art perception.
+*The part-whole relationship in art perception.*
 
 ---
 
 ## Nina Buhlmann - Bachelor thesis
-The project: Modeling aesthetic experiences across the viewing of
-an artistic film.
+*Modeling aesthetic experiences across the viewing of an artistic film.*
 
 
 
