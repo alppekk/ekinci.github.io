@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact
+permalink: /supervision
 ---
 
-Email: alppekinci@gmail.com
+hey there!
