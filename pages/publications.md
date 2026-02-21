@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-category: sample
+category: publications
 permalink: /publications
 ---
 * ***M. A. Ekinci*** and D. Kaiser. “Shared gaze reflects shared aesthetic experiences”. Preprint. bioRxiv:
