@@ -11,7 +11,7 @@ I am a PhD reseracher in the research group of [Prof. Daniel Kaiser](https://www
 
 # Research Interests
 
-I am interested in **neuroaesthetics** and questions related to the perception of visual beauty. I dive into how predictable our aesthetic appeals are, aiming to use **machine learning** and **deep neural networks** to predict the perception of beauty in the brain. I am highly motivated to use naturlaistic stimulus like feature-lenght movies to be close to the real-life complexity. Additionally, I am eager to observe neural networks in the brain responsible for our aesthetic appeals, using **fMRI and EEG methods**
+I am interested in **neuroaesthetics** and questions related to the perception of visual beauty. I dive into how predictable our aesthetic appeals are, aiming to use **machine learning** and **deep neural networks** to predict the perception of beauty in the brain. I am highly motivated to use naturlaistic stimulus like feature-length movies to be close to the real-life complexity. Additionally, I am eager to observe neural networks in the brain responsible for our aesthetic appeals, using **fMRI and EEG methods**
 
 
 # Academic Background
