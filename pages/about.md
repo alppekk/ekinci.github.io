@@ -5,7 +5,7 @@ category: about
 permalink: /about
 #image: alpi_sb.jpg
 ---
-![Project 1 Image](https://alppekk.github.io/assets/img/alp_circ.png){:width="300px"}
+![Project 1 Image](https://ma-ekinci.github.io/assets/img/alp_circ.png){:width="300px"}
 
 I am a PhD reseracher in the research group of [Prof. Daniel Kaiser](https://www.danielkaiser.net/), at Neural Computation Group, JLU Giessen.
 
