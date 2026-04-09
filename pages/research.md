@@ -25,7 +25,7 @@ permalink: /research
 
 ---
 
-## Project 4: The role of aesthetic prcoessing in multisensory integration 
+## Project 4: The role of aesthetic processing in multisensory integration 
 **Description**: Coming soon.
 
 
