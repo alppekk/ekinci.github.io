@@ -7,7 +7,7 @@ permalink: /about
 ---
 ![Project 1 Image](https://ma-ekinci.github.io/assets/img/alp_circ.png){:width="300px"}
 
-I am a PhD reseracher in the research group of [Prof. Daniel Kaiser](https://www.danielkaiser.net/), at Neural Computation Group, JLU Giessen.
+I am a PhD reseracher in the research group of [Prof. Daniel Kaiser](https://scholar.google.com/citations?user=v4CvWHgAAAAJ&hl=en), at Neural Computation Group, JLU Giessen.
 
 # Research Interests
 
