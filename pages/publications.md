@@ -4,8 +4,9 @@ title: Publications
 category: publications
 permalink: /publications
 ---
-* ***M. A. Ekinci*** and D. Kaiser. “Shared gaze reflects shared aesthetic experiences”. Preprint. bioRxiv:
-2026.01.30.702749. [Online]. Available: https://doi.org/10.64898/2026.01.30.702749.
+* ***Ekinci, M. A.***, Buhlmann, N., & Kaiser, D. (2026). From pixels to pleasure: visual features explain dynamic aesthetic experiences across distinct movie content. bioRxiv, 2026-04.
+* 
+* ***Ekinci, M. A.***, & Kaiser, D. (2026). Shared gaze reflects shared aesthetic experiences. bioRxiv, 2026-01.
 
 * Tanriverdi D., Alashan D., ***Ekinci M.A.*** & Ayhan I. The Effect of Target Motion and Smooth Pursuit Eye Movement on the Visibility of Isoluminant Target Gratings. Oral presentation was presented at the 2021 Vision Sciences Society.
 
