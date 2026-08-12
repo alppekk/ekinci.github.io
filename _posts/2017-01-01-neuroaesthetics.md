@@ -14,7 +14,7 @@ False Mirror by Rene Magritte, 1928.
 Throughout history, aesthetic experiences have had a strong impact on human life, influencing architecture, art, cinema, and even personal decisions and well-being [^1] [^2].  While we find some things attractive or pleasing, we dislike or find  others unpleasing. Basically, empirical aesthetics aims to understand these responses using statistical and neuroscientific methods [^3]. 
 <br>
 <br>
-Over the last 50 years, research has revealed that aesthetic appreciation/appeals includes complex relationships between cognitive, perceptual, and affective mechanisms, integrating both top-down and bottom-up processes [^3] [^4] [^5] [^6]. Therefore, it is not surprising that our perception of beauty or pleasingness is heavily affected by personal factors and expectations, as these influence aforementioned mechanisms [^3] [^7]. 
+Over the last 50 years, research has revealed that aesthetic appreciation/appeals includes complex relationships between cognitive, perceptual, and affective mechanisms, integrating both top-down and bottom-up processes [^3] [^4] [^5] [^6]. Therefore, it is not surprising that our perception of beauty or pleasingness is heavily affected by both low-level, physical features and high-level, personal factors [^3] [^7]. 
 <br>
 <br>
 The neuroaesthetics field seeks to understand the fundamental principles of aesthetic experiences by employing behavioral and neural measurements such as fMRI, EEG, and other tools [^1] [^8] [^9] [^10] [^11]. 
