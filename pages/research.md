@@ -7,6 +7,12 @@ permalink: /research
 
 # Work in progress
 
+## Project: The effects of shared attention on aesthetic judgements in dual eye-tracking task
+**Description**: In this ongoing project, we ask two questions: (1) Does shared viewing change visual exploration? and (2) Does social context influence aesthetic judgments? Two participants perform an aesthetic judgment task both individually and together in a dual eye-tracking setup.
+
+---
+
+
 ## Project: Shared minds in aesthetic agreement
 **Description**: Do our brains align temporally when we aesthetically agree or disagree while watching a movie? In two different EEG studies, participants either watched a feature-length movie or a series of movie trailers. We first investigated whether, during a feature-length movie, brain alignment follows aesthetic agreement and, if so, at which frequencies this relationship emerges. Second, we asked whether brain alignment while watching movie trailers can predict the IMDb scores of those movies.
 
