@@ -5,7 +5,7 @@ category: research
 permalink: /research
 ---
 
-## Work in progress
+### Work in progress
 
 ## Project: Shared minds in aesthetic agreement
 **Description**: Do our brains align temporally when we aesthetically agree or disagree while watching a movie? In two different EEG studies, participants either watched a feature-length movie or a series of movie trailers. We first investigated whether, during a feature-length movie, brain alignment follows aesthetic agreement and, if so, at which frequencies this relationship emerges. Second, we asked whether brain alignment while watching movie trailers can predict the IMDb scores of those movies.
@@ -17,8 +17,8 @@ permalink: /research
 ## Project: The role of aesthetic processing in multisensory integration 
 **Description**: We investigate whether aesthetic processing affects multisensory integration in the brain. In an fMRI study, participants were presented with audio-only, video-only, and audiovisual stimuli associated with varying levels of aesthetic pleasure. We conducted both univariate and multivariate analyses to investigate whether multisensory superadditivity is enhanced for aesthetically appealing stimuli and whether aesthetic processing influences the decoding accuracy of different sensory modalities.
 
-
-## 2026
+---
+### 2026
 
 ## Project: From pixels to pleasure: Visual features explain dynamic aesthetic experiences across distinct movie content
 **Description**: In two experiments, participants continuously rated the aesthetic appeal of either the documentary, “Home” or an animated film, “Loving Vincent”. While watching each film, participants continuously rated the aesthetic appeal of the unfolding scenes using a response slider. We modeled moment-to-moment ratings using image-computable visual features extracted from each movie frame, including spatial structure, color statistics, and motion energy, derived from targeted feature measures and deep neural network activations.
