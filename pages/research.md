@@ -4,6 +4,7 @@ title: Research
 category: research
 permalink: /research
 
+
 ## Work in progress
 
 ## Project: Shared minds in aesthetic agreement
