@@ -4,7 +4,8 @@ title: Publications
 category: publications
 permalink: /publications
 ---
-* ***Ekinci, M. A.***, Buhlmann, N., & Kaiser, D. (2026). From pixels to pleasure: visual features explain dynamic aesthetic experiences across distinct movie content. bioRxiv, 2026-04.
+
+* ***Ekinci, M. A.***, Buhlmann, N. & Kaiser, D. Visual features explain dynamic aesthetic experiences across distinct movie content. Commun Psychol 4, 127 (2026). https://doi.org/10.1038/s44271-026-00531-7
   
 * ***Ekinci, M. A.***, & Kaiser, D. (2026). Shared gaze reflects shared aesthetic experiences. bioRxiv, 2026-01.
 
